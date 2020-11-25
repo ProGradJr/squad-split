@@ -105,6 +105,14 @@ var namesBySquad = {
         "Kamlesh Narayanan",
         "Sakthivelu",
     ],
+    Squad53:["Gahana Shashidhar",
+        "Arnav",
+        "Syed Hasib"
+        "Vignesh vinod",
+        "Eden Edwards",
+        "Aarushi Ranjan",
+        "N S Nikkilesh Kumar",
+        "Vihaan"]
 };
 
 var red = [
@@ -137,6 +145,9 @@ var red = [
     "Atmikha",
     "Jenika Ann Mathew",
     "Sanskriti Amidesh",
+    "N S Nikkilesh Kumar",
+    "Arnav",
+    "Vignesh vinod",
 ];
 var blue = [
     "Eshwar",
@@ -172,6 +183,8 @@ var blue = [
     "Ishaan Kurian",
     "Sidharth Sudheer",
     "Anagha N",
+    "Eden Edwards",
+    "Gahana Shashidhar",
 ];
 var green = [
     "Mahima Sree",
@@ -203,6 +216,8 @@ var green = [
     "Luis Gael Rojo Trejo",
     "Veer Banerjee",
     "Pinnenti Sreepooja",
+    "Aarushi Ranjan",
+    "Vihaan"
 ];
 
 function makeSubmenu(value) {
